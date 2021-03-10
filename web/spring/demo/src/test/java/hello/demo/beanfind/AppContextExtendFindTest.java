@@ -14,6 +14,8 @@ import org.springframework.context.annotation.Configuration;
 
 import java.util.Map;
 
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+
 public class AppContextExtendFindTest {
 
     AnnotationConfigApplicationContext ac = new AnnotationConfigApplicationContext(TestConfig.class);
