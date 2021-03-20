@@ -1,0 +1,8 @@
+
+.vscode/
+
+*.out
+
+*.plist
+
+web/spring/.DS_Store
