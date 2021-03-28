@@ -6,3 +6,7 @@
 *.plist
 
 web/spring/.DS_Store
+
+algorithm/programmers/0.test/.DS_Store
+
+algorithm/.DS_Store
